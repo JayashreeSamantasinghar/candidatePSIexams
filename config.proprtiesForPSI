@@ -1,0 +1,22 @@
+browsername="Chrome"
+
+appurl=https://candidate.psiexams.com/
+
+createAccountlinktext= Create 
+
+ emailId= testingpractice2020@gmail.com
+ 
+ firstname= Jayas
+ 
+ lastname= Samanta
+ 
+ password= 12345678$$
+ 
+ cofirmpassword= 12345678$$
+ 
+ securityquestion= place of birth
+ 
+ securityanswer = california
+ 
+ submit= submit
+ 

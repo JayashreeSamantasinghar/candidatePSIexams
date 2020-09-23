@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="psiexams">
+
+<test name="regressiontesting">
+<groups>
+<run>
+<include name="regression">
+<class name="com.psiexams.extentReport.CreateAccount2"></class>
+<class name="com.psiexams.extentReport.RegisterForExam2"></class>
+</include>
+
+<include name="smoke">
+<class name="com.psiexams.extentReport.CreateAccount2"></class>
+<class name="com.psiexams.extentReport.RegisterForExam2"></class>
+</include>
+
+</run>
+
+</groups>
+
+</test>
+
+
+</suite>
